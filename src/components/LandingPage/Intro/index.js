@@ -47,7 +47,7 @@ function LandingPageComponent() {
           <RWebShare            // used for sharing app
             data={{
               text: "Crypto Dashboard made using React JS.",
-              url: "https://crypto-dashboard-dec.netlify.app/",
+              url: "https://crypto-tracker-by-biswa.vercel.app/",
               title: "CryptoDashboard.",
             }}
             onClick={() => console.log("shared successfully!")}
