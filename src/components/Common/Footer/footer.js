@@ -19,13 +19,13 @@ function Footer() {
         <a href="https://facebook.com">
           <FacebookIcon className="social-link" />
         </a>
-        <a href="mailto:avivashishta@gmail.com">
+        <a href="mailto:biswajit4414@gmail.com">
           <EmailIcon className="social-link" />
         </a>
         <a href="https://www.twitter.com">
           <TwitterIcon className="social-link" />
         </a>
-        <a href="https://www.instagram.com">
+        <a href="https://www.instagram.com/night_sky0912/">
           <InstagramIcon className="social-link" />
         </a>
       </div>
